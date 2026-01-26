@@ -22,6 +22,8 @@ pip install -e .
 Run the main quantization workflow:
 ```bash
 bash llama3_run.sh wikitext
+
+bash reasoning.sh
 ```
 
 ## Structure
