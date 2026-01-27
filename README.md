@@ -44,6 +44,17 @@ bash reasoning.sh
 
 ## Citation
 
+If you find this repository useful in your research or project, please kindly cite:
+
 ```text
 
 ```
+
+## Acknowledgements
+
+We sincerely thank the authors and contributors of the following open-source projects. Our implementation builds upon their excellent codebases:
+
+- [AWQ](https://github.com/mit-han-lab/llm-awq)
+- [vLLM](https://github.com/vllm-project/vllm)
+- [LM-Eval Harness](https://github.com/EleutherAI/lm-evaluation-harness)
+- [LightEval](https://github.com/huggingface/lighteval/tree/main)
