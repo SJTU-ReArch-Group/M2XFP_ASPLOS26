@@ -48,8 +48,8 @@ bash reasoning.sh
 If you find this repository useful in your research or project, please kindly cite:
 
 ```text
-@misc{hu2026mtext2xfpmetadataaugmentedmicroscalingdata,
-  title={M$^{\text{2}}$XFP: A Metadata-Augmented Microscaling Data Format for Efficient Low-bit Quantization}, 
+@misc{hu2026m2xfpmetadataaugmentedmicroscalingdata,
+  title={M2XFP: A Metadata-Augmented Microscaling Data Format for Efficient Low-bit Quantization}, 
   author={Weiming Hu and Zihan Zhang and Haoyan Zhang and Chen Zhang and Cong Guo and Yu Feng and Tianchi Hu and Guanglin Li and Guipeng Hu and Junsong Wang and Jingwen Leng},
   year={2026},
   eprint={2601.19213},
